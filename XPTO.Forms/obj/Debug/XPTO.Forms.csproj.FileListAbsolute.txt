@@ -1,0 +1,15 @@
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\XPTO.Forms.exe.config
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\XPTO.Forms.exe
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\XPTO.Forms.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\EntityFramework.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\Xpto.Modelo.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\Xpto.Persistencia.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\EntityFramework.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\obj\Debug\XPTO.Forms.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\obj\Debug\XPTO.Forms.XptoForm.resources
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\obj\Debug\XPTO.Forms.Properties.Resources.resources
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\obj\Debug\XPTO.Forms.csproj.GenerateResource.Cache
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\obj\Debug\XPTO.Forms.exe
+C:\Users\eduardo\source\repos\Stefanini\XPTO.Forms\XPTO.Forms\obj\Debug\XPTO.Forms.pdb
